@@ -18,7 +18,7 @@
 I'm an IT consultant and digital transformation leader based in Canada.  
 I help organizations modernize their systems, optimize operations, and innovate through cloud, automation, and AI — with a strong focus on governance and responsible adoption.
 
-PMP-certified, MBA candidate at Telfer (University of Ottawa), and founder of **DL Labs**,
+PMP-certified, MBA candidate at Telfer (University of Ottawa), and founder of **DL Labs**
 
 ---
 
