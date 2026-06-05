@@ -30,6 +30,16 @@ PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder o
 
 ---
 
+### 🚀 Projects & Initiatives
+
+> **[DL-LABS — Infrastructure, Automation & AI Platform →](https://github.com/dlassey-labs/dl-labs)**
+> 
+> Self-hosted experimentation platform: Proxmox, Ansible, Terraform, GitLab CI/CD, Wazuh, n8n, Ollama, RAG pipelines.
+> Full architecture, core stack, and roadmap inside.
+
+---
+
+
 # 🛠 Technology Domains
 
 ## Infrastructure & Platform
