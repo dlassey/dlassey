@@ -20,7 +20,7 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
 
 ---
 
-# 👋 About
+### 👋 About
 
 I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security, governance and practical delivery.
 
