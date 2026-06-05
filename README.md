@@ -25,15 +25,11 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
 
 # 👋 About
 
-I'm an infrastructure and technology professional building practical systems at the intersection of:
+I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security, governance and practical delivery.
 
-- Infrastructure & Platform Engineering
-- Automation & Infrastructure as Code
-- AI Systems & Workflow Orchestration
-- Governance, Risk & Digital Transformation
+Through DL Labs, I build and operate a self-hosted platform used to validate and demonstrate infrastructure automation, platform engineering and modern operational practices. I design, automate and operate production-grade infrastructure, while documenting architectures and deployment decisions.
 
-Currently building **DL Labs**, a self-hosted experimentation platform designed to explore infrastructure automation, platform engineering, AI systems, and modern operations.
-
+PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder of DL Labs.
 ---
 
 # 🛠 Technology Domains
