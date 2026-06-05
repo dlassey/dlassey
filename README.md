@@ -4,7 +4,7 @@
 
 ### Technology Consultant — Infrastructure Platforms · Automation · AI Systems
 
-Infrastructure • Platform Engineering • Automation • AI Systems • Governance
+ Hybrid Cloud • Platform Engineering • Infrastructure Automation • AI Systems • Secirity & Governance
 
 Bilingual FR/EN
 
