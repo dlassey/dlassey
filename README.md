@@ -43,14 +43,6 @@ PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder o
 
 # 🛠 What I work with
 
-Cloud & Identity    │  M365 · Entra ID · Azure · AWS
-Infra & Platform    │  Proxmox · VMware · Linux · OpenShift · Kubernetes
-Automation & IaC    │  Terraform · Ansible · AWX · GitLab CI/CD · GitOps · n8n
-AI & Data           │  LLMs · RAG · Ollama · Qdrant · LangGraph · MCP
-Security & GRC      │  SIEM · Wazuh · Vault · IAM · ZTNA · Loi 25
-Observability & Ops │  Grafana · Zabbix · NetBox · Nginx Proxy Manager
-Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
-
 ```
 Cloud & Identity    │  M365 · Entra ID · Azure · AWS 
 Infra & Platform    │  Proxmox · VMware · Linux · OpenShift · Kubernetes
