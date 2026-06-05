@@ -5,12 +5,11 @@
 ### Technology Consultant — Infrastructure Platforms · Automation · AI Systems
 
 Infrastructure • Platform Engineering • Automation • AI • Governance
-Bilingual FR/EN
+Ottawa–Gatineau, Canada · Bilingual FR/EN · Founder, DL Axis Inc.
 
 [Website](https://dossehlassey.me) · [LinkedIn](https://linkedin.com/in/your-handle) · contact@dossehlassey.me
 
 </div>
-
 ---
 
 ## About
