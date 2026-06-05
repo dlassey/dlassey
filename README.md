@@ -41,53 +41,16 @@ PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder o
 ---
 
 
-# 🛠 Technology Domains
+# 🛠 What I work with
 
-## Infrastructure & Platform
+Cloud & Identity    │  M365 · Entra ID · Azure · AWS
+Infra & Platform    │  Proxmox · VMware · Linux · OpenShift · Kubernetes
+Automation & IaC    │  Terraform · Ansible · AWX · GitLab CI/CD · GitOps · n8n
+AI & Data           │  LLMs · RAG · Ollama · Qdrant · LangGraph · MCP
+Security & GRC      │  SIEM · Wazuh · Vault · IAM · ZTNA · Loi 25
+Observability & Ops │  Grafana · Zabbix · NetBox · Nginx Proxy Manager
+Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
-- Proxmox
-- VMware
-- Linux
-- OpenShift
-- Kubernetes
-- Networking
-- Hybrid Infrastructure
-
-## Automation & Infrastructure as Code
-
-- Terraform
-- Ansible
-- GitLab CI/CD
-- AWX
-- GitOps
-- HashiCorp Vault
-
-## AI & Workflow Automation
-
-- LangGraph
-- Ollama
-- MCP
-- RAG Systems
-- n8n
-- AI Orchestration Pipelines
-
-## Observability & Operations
-
-- Grafana
-- Zabbix
-- Wazuh
-- NetBox
-- Nginx Proxy Manager
-- Monitoring Platforms
-
-## Governance & Strategy
-
-- Project Management
-- Digital Transformation
-- Governance
-- Risk Management
-- Responsible AI
-- Service Management
 
 ---
 
