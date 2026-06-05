@@ -6,7 +6,11 @@
 
 Infrastructure • Platform Engineering • Automation • AI Systems • Governance
 
-🌐 dossehlassey.me • LinkedIn • contact@dossehlassey.me
+<p align="center">
+  <a href="https://dossehlassey.me">🌐 dossehlassey.me</a> · 
+  <a href="https://linkedin.com/in/">LinkedIn</a> · 
+  <a href="mailto:contact@dossehlassey.me">contact@dossehlassey.me</a>
+</p>
 
 ---
 
