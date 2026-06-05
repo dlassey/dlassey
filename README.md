@@ -2,9 +2,11 @@
 
 # Dosseh Lassey
 
-### Technology Consultant Building Infrastructure Platforms, Automation Systems & AI-Enabled Solutions
+### Technology Consultant — Infrastructure Platforms · Automation · AI Systems
 
 Infrastructure • Platform Engineering • Automation • AI Systems • Governance
+
+Bilingual FR/EN
 
 <p align="center">
   <a href="https://dossehlassey.me">🌐 dossehlassey.me</a> · 
