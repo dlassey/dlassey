@@ -7,7 +7,7 @@
 
  Hybrid Cloud • Platform Engineering • Infrastructure Automation • AI Systems • Security & Governance
 
-Based in Canada | Open to Remote and International Opportunities | Bilingual FR/EN
+Based in Canada • Open to Remote and International Opportunities • Bilingual FR/EN
 
 <p align="center">
   <a href="https://dossehlassey.me">🌐 dossehlassey.me</a> · 
