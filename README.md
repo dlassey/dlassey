@@ -15,9 +15,6 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
   <a href="mailto:contact@dossehlassey.me">contact@dossehlassey.me</a>
 </p>
 
----
-
-*"Building practical systems for infrastructure, automation, AI, and modern operations."*
 
 </div>
 
@@ -29,7 +26,8 @@ I help organizations design, automate and modernize technology platforms — thr
 
 Through DL Labs, I build and operate a self-hosted platform used to validate and demonstrate infrastructure automation, platform engineering and modern operational practices. I design, automate and operate production-grade infrastructure, while documenting architectures and deployment decisions.
 
-PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder of DL Labs.
+PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder of DL Labs
+
 ---
 
 # 🛠 Technology Domains
