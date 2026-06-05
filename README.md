@@ -51,6 +51,15 @@ Security & GRC      │  SIEM · Wazuh · Vault · IAM · ZTNA · Loi 25
 Observability & Ops │  Grafana · Zabbix · NetBox · Nginx Proxy Manager
 Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
+```
+Cloud & Identity    │  M365 · Entra ID · Azure · AWS 
+Infra & Platform    │  Proxmox · VMware · Linux · OpenShift · Kubernetes
+Automation & IaC    │  Terraform · Ansible · AWX · GitLab CI/CD · GitOps · n8n
+Security            │  SIEM · Wazuh · Vault · IAM · ZTNA 
+Observability & Ops │  Grafana · Zabbix · NetBox · Nginx Proxy Manager
+AI & Data           │  LLMs · RAG · Ollama · Qdrant · LangGraph · MCP
+Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
+```
 
 ---
 
