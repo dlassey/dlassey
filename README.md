@@ -30,7 +30,7 @@ PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder o
 
 ---
 
-### 🚀 Projects & Initiatives
+### 📂 Projects & Initiatives
 
 > **[DL-LABS — Infrastructure, Automation & AI Platform →](https://github.com/dlassey-labs/dl-labs)**
 > 
@@ -60,13 +60,13 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 * Reproducible and documented infrastructure platforms — Infrastructure as Code and Automation
 
-* Platform engineering capabilities toward self-service infrastruture - provisioning , configuration and lifecycle
+* Platform engineering toward self-service infrastructure - provisioning , configuration and lifecycle
 
 * AI-enabled infrastructure workflow and AI-assisted operations on self-hosted LLMs
 
 * Observability and security engineering across the stack 
 
-* Public , hands-on learning arctifacts through DL Labs
+* Public , hands-on learning artifacts through DL Labs
 
 ---
 
