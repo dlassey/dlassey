@@ -57,6 +57,20 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 # 🚀 Current Initiative
 
+📈 Current Focus 
+
+
+
+* Reproducible and documented infrastructure platforms — Infrastructure as Code end-to-end
+
+* Building repeatable infrastructure modernization patterns and platform engineering capabilities
+
+* Developing AI-enabled infrastructure workflows and automation
+
+* Expanding AI governance capabilities through practical deployments and real-world use cases
+
+* Creating public, hands-on learning artifacts through DL Labs
+
 # DL Labs
 
 Self-hosted experimentation platform focused on:
