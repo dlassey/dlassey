@@ -68,6 +68,8 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 * Public , hands-on learning arctifacts through DL Labs
 
+---
+
 <p align="center">
   <em>Build · Automate · Observe · Improve</em>
 </p>
@@ -77,8 +79,5 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 Build → Automate → Observe → Improve
 
-Build · Automate · Observe · Improve
-
-### Build → Automate → Measure → Improve
 
 </div>
