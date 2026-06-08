@@ -2,10 +2,10 @@
 
 # Dosseh Lassey
 
-### Technology Consultant — Cloud, Infrastructure, AI & Digital Transformation 
+### Technology Consultant — Cloud, Infrastructure, AI & Modernization 
 
 
- Hybrid Cloud • Platform Engineering • Infrastructure Automation • AI Systems • Security & Governance
+ Hybrid Cloud • Platform Engineering • Infrastructure Automation • AI Integration • Security & Governance
 
 Based in Canada • Open to Remote and International Opportunities • Bilingual FR/EN
 
@@ -55,10 +55,9 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 ---
 
-# 🚀 Current Initiative
+# 📈 Current Focus
 
-📈 Current Focus 
-
+# DL Labs
 
 
 * Reproducible and documented infrastructure platforms — Infrastructure as Code end-to-end
@@ -71,106 +70,16 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 * Creating public, hands-on learning artifacts through DL Labs
 
-# DL Labs
+- Reproducible, documented infrastructure platforms — Infrastructure as Code, end to end
+- Platform engineering capabilities toward self-service infrastructure — provisioning, configuration and lifecycle
+- AI-enabled infrastructure workflows and Automation
+- AI-assisted operations on self-hosted LLMs — orchestration and a custom MCP bridge to infrastructure
+- Observability and security engineering across the stack — metrics, detection and Zero Trust foundations
+- Public, hands-on learning artifacts through DL Labs
 
-Self-hosted experimentation platform focused on:
 
-- Infrastructure Automation
-- Platform Engineering
-- AI Orchestration
-- Security Engineering
-- Observability
-- Self-Service Infrastructure
 
-Current focus:
 
-✓ Automated Infrastructure Deployment
-
-✓ Infrastructure as Code
-
-✓ Workflow Automation
-
-✓ AI Experimentation
-
-✓ Security Engineering
-
-✓ Platform Operations
-
----
-
-# 🔬 Current Exploration Areas
-
-Currently experimenting with:
-
-- AI-powered infrastructure workflows
-- Agentic systems & orchestration
-- Responsible AI & AI Governance
-- Platform Engineering
-- Self-Service Infrastructure
-- Edge AI & Embedded Systems
-
----
-
-# 📂 Featured Projects
-
-## DL Labs Platform
-
-Self-hosted platform combining:
-
-- Infrastructure provisioning
-- GitLab automation pipelines
-- Terraform workflows
-- Configuration management
-- AI experimentation
-- Platform operations
-
----
-
-## Security Engineering
-
-Current initiatives include:
-
-- HashiCorp Vault
-- Internal PKI
-- Zero Trust Architecture
-- Identity-first Security
-- SIEM & Detection Engineering
-
----
-
-## Automation & Platform Engineering
-
-Current work includes:
-
-- Automated VM provisioning
-- GitOps workflows
-- Self-service infrastructure
-- CI/CD pipelines
-- Workflow orchestration
-
----
-
-# 📈 Current Goals
-
-- Build reproducible infrastructure platforms
-- Expand AI governance expertise
-- Develop AI-enabled infrastructure workflows
-- Build practical platform engineering capabilities
-- Create hands-on learning environments through DL Labs
-
----
-
-# 🤝 Connect
-
-🌐 Website:
-
-dossehlassey.me
-
-💼 LinkedIn
-
-📧 contact@dossehlassey.me
-
----
 
 <div align="center">
 
