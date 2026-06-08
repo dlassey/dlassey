@@ -68,6 +68,10 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 * Public , hands-on learning arctifacts through DL Labs
 
+<p align="center">
+  <em>Build · Automate · Observe · Improve</em>
+</p>
+
 
 <div align="center">
 
