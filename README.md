@@ -22,7 +22,7 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
 
 ### 👋 About
 
-I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security, governance and practical delivery.
+I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security and governance.
 
 Through DL Labs, I build and operate a self-hosted platform used to validate and demonstrate infrastructure automation, platform engineering and modern operational practices. I design, automate and operate production-grade infrastructure, while documenting architectures and deployment decisions.
 
@@ -60,9 +60,9 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 * Reproducible and documented infrastructure platforms — Infrastructure as Code and Automation
 
-* Plateform engineering capabilities toward self-service infrastruture - provisioning , configuration and lifecycle
+* Platform engineering capabilities toward self-service infrastruture - provisioning , configuration and lifecycle
 
-* AI-enabled infrastructure workflow and AI-assisted operations aon self-hosted LLMs
+* AI-enabled infrastructure workflow and AI-assisted operations on self-hosted LLMs
 
 * Observability and security engineering across the stack 
 
