@@ -75,9 +75,4 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 </p>
 
 
-<div align="center">
 
-Build → Automate → Observe → Improve
-
-
-</div>
