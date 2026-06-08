@@ -57,28 +57,16 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 # 📈 Current Focus
 
-# DL Labs
 
+* Reproducible and documented infrastructure platforms — Infrastructure as Code and Automation
 
-* Reproducible and documented infrastructure platforms — Infrastructure as Code end-to-end
+* Plateform engineering capabilities toward self-service infrastruture - provisioning , configuration and lifecycle
 
-* Building repeatable infrastructure modernization patterns and platform engineering capabilities
+* AI-enabled infrastructure workflow and AI-assisted operations aon self-hosted LLMs
 
-* Developing AI-enabled infrastructure workflows and automation
+* Observability and security engineering across the stack 
 
-* Expanding AI governance capabilities through practical deployments and real-world use cases
-
-* Creating public, hands-on learning artifacts through DL Labs
-
-- Reproducible, documented infrastructure platforms — Infrastructure as Code, end to end
-- Platform engineering capabilities toward self-service infrastructure — provisioning, configuration and lifecycle
-- AI-enabled infrastructure workflows and Automation
-- AI-assisted operations on self-hosted LLMs — orchestration and a custom MCP bridge to infrastructure
-- Observability and security engineering across the stack — metrics, detection and Zero Trust foundations
-- Public, hands-on learning artifacts through DL Labs
-
-
-
+* Public , hands-on learning arctifacts through DL Labs
 
 
 <div align="center">
