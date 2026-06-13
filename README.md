@@ -22,11 +22,25 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
 
 ### 👋 About
 
+I am an IT infrastructure and digital transformation professional
+
 I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security and governance.
 
 Through DL Labs, I build and operate a self-hosted platform used to validate and demonstrate infrastructure automation, platform engineering and modern operational practices. I design, automate and operate production-grade infrastructure, while documenting architectures and deployment decisions.
 
-PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder of DL Labs
+PMP-certified, ITIL Strategic Leader, Completing an MBA at Telfer (University of Ottawa), and founder of DL Labs
+
+---
+
+
+# Area of expertise
+
+• Cloud & Infrastructure
+• Platform Engineering
+• IT Automation
+• Enterprise Architecture
+• Digital Transformation
+• AI Operations
 
 ---
 
@@ -34,12 +48,13 @@ PMP-certified, Completing an MBA at Telfer (University of Ottawa), and founder o
 
 > **[DL-LABS — Infrastructure, Automation & AI Platform →](https://github.com/dlassey-labs/dl-labs)**
 > 
->Self-hosted platform for building and validating real-world architectures, automation workflows, AI systems and modern operational practices.
+>DL Labs is a self-hosted experimentation, learning and demonstration platform for modern IT operations.
+
+>It is used to build, validate and document real-world architectures, automation workflows, AI systems and modern operational practices.
 
 > Full architecture, core stack, projects, implementationdetails and roadmap inside.
 
 ---
-
 
 # 🛠 What I work with
 
