@@ -22,18 +22,17 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
 
 ### 👋 About
 
-I am an IT infrastructure and digital transformation professional
 
 I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security and governance.
 
 Through DL Labs, I build and operate a self-hosted platform used to validate and demonstrate infrastructure automation, platform engineering and modern operational practices. I design, automate and operate production-grade infrastructure, while documenting architectures and deployment decisions.
 
-PMP-certified, ITIL Strategic Leader, Completing an MBA at Telfer (University of Ottawa), and founder of DL Labs
+PMP-certified, ITIL Strategic Leader, Completing an MBA at Telfer School of Management (University of Ottawa), and founder of DL Labs
 
 ---
 
 
-# Area of expertise
+### Areas of Expertise
 
 • Cloud & Infrastructure
 • Platform Engineering
@@ -48,15 +47,13 @@ PMP-certified, ITIL Strategic Leader, Completing an MBA at Telfer (University of
 
 > **[DL-LABS — Infrastructure, Automation & AI Platform →](https://github.com/dlassey-labs/dl-labs)**
 > 
->DL Labs is a self-hosted experimentation, learning and demonstration platform for modern IT operations.
-
->It is used to build, validate and document real-world architectures, automation workflows, AI systems and modern operational practices.
+>DL Labs is a self-hosted experimentation, learning and demonstration platform for modern IT operations. It is used to build, validate and document real-world architectures, automation workflows, AI systems and modern operational practices.
 
 > Full architecture, core stack, projects, implementationdetails and roadmap inside.
 
 ---
 
-# 🛠 What I work with
+### 🛠 What I work with
 
 ```
 Cloud & Identity    │  M365 · Entra ID · Azure · AWS 
@@ -70,7 +67,7 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 ---
 
-# 📈 Current Focus
+### 📈 Current Focus
 
 
 * Reproducible and documented infrastructure platforms — Infrastructure as Code and Automation
