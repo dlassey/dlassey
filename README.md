@@ -27,7 +27,7 @@ I help organizations design, automate and modernize technology platforms — thr
 
 Through DL Labs, I build and operate a self-hosted platform used to validate and demonstrate infrastructure automation, platform engineering and modern operational practices. I design, automate and operate production-grade infrastructure, while documenting architectures and deployment decisions.
 
-PMP-certified, ITIL Strategic Leader, MBA Candidate at Telfer School of Management (University of Ottawa), and founder of DL Labs
+PMP, ITIL Strategic Leader, MBA Candidate at Telfer School of Management (University of Ottawa), and founder of DL Labs
 
 ---
 
