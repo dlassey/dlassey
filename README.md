@@ -20,7 +20,7 @@ Based in Canada • Open to Remote and International Opportunities • Bilingual
 
 ---
 
-### 👋 About
+###  About
 
 
 I help organizations design, automate and modernize technology platforms — through infrastructure engineering, automation, AI and emerging technologies, with a strong focus on security and governance.
@@ -49,7 +49,7 @@ PMP, ITIL Strategic Leader, MBA Candidate at Telfer School of Management (Univer
 > 
 >DL Labs is a self-hosted experimentation, learning and demonstration platform for modern IT operations. It is used to build, validate and document real-world architectures, automation workflows, AI systems and modern operational practices.
 
-> Full architecture, core stack, projects, implementationdetails and roadmap inside.
+> Full architecture, core stack, projects, implementation details and roadmap inside.
 
 ---
 
@@ -74,7 +74,7 @@ Project Management  │  PMP · Agile · Waterfall · ITSM · Portfolio
 
 * Platform engineering toward self-service infrastructure - provisioning , configuration and lifecycle
 
-* AI-enabled infrastructure workflow and AI-assisted operations on self-hosted LLMs
+* AI-enabled infrastructure workflows and AI-assisted operations on self-hosted LLMs
 
 * Observability and security engineering across the stack 
 
